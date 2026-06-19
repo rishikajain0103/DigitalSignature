@@ -1,6 +1,6 @@
-# SignifyPDF
+# DigitalSignature
 
-SignifyPDF is a secure PDF signing and verification system built using FastAPI, React, Tailwind CSS, and Supabase PostgreSQL.
+DigitalSignature is a secure PDF signing and verification system built using FastAPI, React, Tailwind CSS, and Supabase PostgreSQL.
 
 The system allows users to upload PDF documents, place signatures on the PDF, generate a signed PDF, and verify documents using a unique verification ID.
 
